@@ -2,7 +2,10 @@
 
 Console.Title = "kursus";
 
-
+Console.Clear();
+Console.Clear();
+Console.Clear();
+Console.Clear();
 
 Console.WriteLine("Hej Carl og velkommen til mit matematik kursus...");
 
